@@ -1,8 +1,9 @@
 body {
     padding: 0;
     margin: 0;
-    background: #dcf5ff;
-    font-family: "Roboto", "sans-serif";
+    background: white;
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
 }
 .center-frame {
     width: 80%;
@@ -12,44 +13,24 @@ body {
     margin-right:auto;
     max-width:800px;
 }
-.button-table {
-    float:right;
-    margin:-2px;
-    padding:0;
-}
 .content-box {
     background: white;
     padding: 50px;
 }
 .content-header {
-    /*color: #ff204e;*/
     font-weight: bold;
-    font-size: 40px;
-    margin-bottom: 50px;
-}
-.content {
-    font-size: 20px;
+    font-size: 36px;
+    margin-bottom: 30px;
 }
 a {
-    color: #0095d3;
     text-decoration: none;
 }
 a:hover {
     color: #20beff;
 }
-.button {
-    background: #d3a800;
-    padding: 15px;
-    font-weight: bold;
-    font-size: 20px;
-    cursor: pointer;
+li {
+    margin-bottom: 4px;
 }
-.button-link {
-    color: white;
-}
-.button-link:visited {
-    color: white;
-}
-.button-active {
-    background: lightsteelblue;
+.notebooks-list {
+    margin-top: 50px;
 }

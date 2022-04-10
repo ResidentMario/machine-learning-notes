@@ -1,3 +1,3 @@
 # machine-learning-notes
 
-![](https://i.imgur.com/15dYoKl.png)
+A collection of machine learning notebooks discussing `sckit-learn` and some related tools.
